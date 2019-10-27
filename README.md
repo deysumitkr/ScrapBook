@@ -1,14 +1,14 @@
 # ScrapBook
 
 ## Readings
-[An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
-[Wait-free and lock-free programming](https://github.com/rigtorp/awesome-lockfree)
-[`Book` C++ Concurrency in Action](https://www.bogotobogo.com/cplusplus/files/CplusplusConcurrencyInAction_PracticalMultithreading.pdf)
-[`Thesis` Robustly Modelling World from Photos, Cornell University, 2016](https://pdfs.semanticscholar.org/5262/8c0c25f596f932b3ecf2061d905c1c690bb0.pdf)
+- [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+- [Wait-free and lock-free programming](https://github.com/rigtorp/awesome-lockfree)
+- [`Book` C++ Concurrency in Action](https://www.bogotobogo.com/cplusplus/files/CplusplusConcurrencyInAction_PracticalMultithreading.pdf)
+- [`Thesis` Robustly Modelling World from Photos, Cornell University, 2016](https://pdfs.semanticscholar.org/5262/8c0c25f596f932b3ecf2061d905c1c690bb0.pdf)
 
 ## Resources
-[Jemalloc memory allocator](http://jemalloc.net/)
-[Git Magic - Stanford](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html)
+- [Jemalloc memory allocator](http://jemalloc.net/)
+- [Git Magic - Stanford](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html)
 
 ## Hands-On
 
